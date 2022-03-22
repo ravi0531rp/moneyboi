@@ -71,4 +71,4 @@ If you have general question about the project. Feel free to open an issue regar
 
 ### Learn Flutter ?
 
-Follow this [link](https://flutter.dev/)
+Follow this [link](https://flutter.dev/) to learn more!
